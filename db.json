@@ -1,0 +1,76 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "make": "Toyota upholdg",
+      "model": "Camry",
+      "year": "2022",
+      "color": "Silver",
+      "price": "25000",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "make": "Honda 34g",
+      "model": "Accord",
+      "year": "2023",
+      "color": "black",
+      "price": "2900000",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "color": "Black",
+      "price": 35000,
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "6",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2020,
+      "color": "Gray",
+      "price": 48000,
+      "image": "mercedes_cclass.jpg"
+    },
+    {
+      "id": "7",
+      "make": "Audi",
+      "model": "A4",
+      "year": 2021,
+      "color": "Black",
+      "price": 50000,
+      "image": "audi_a4.jpg"
+    },
+    {
+      "id": "b6a9",
+      "make": "Toyota up",
+      "model": "Camry up",
+      "year": "2022",
+      "color": "Silver",
+      "price": "25000",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "b165",
+      "make": "Toyota up",
+      "model": "Camry",
+      "year": "2022",
+      "color": "Silver",
+      "price": "25000",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "887f",
+      "make": "Honda up",
+      "model": "Accord",
+      "year": "2021",
+      "color": "White",
+      "price": "27000",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
