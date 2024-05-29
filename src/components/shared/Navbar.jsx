@@ -25,7 +25,7 @@ export default function Navbar() {
 
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">CS</a>
+                <a className="btn btn-ghost text-xl">CAR STORE</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -40,9 +40,6 @@ export default function Navbar() {
                     }
                     {user && <li><Link onClick={logOut}>Logout</Link></li>}
                 </ul>
-            </div>
-            <div className="navbar-end">
-                <a className="btn">Button</a>
             </div>
         </div>
     )

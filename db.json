@@ -16,7 +16,7 @@
       "year": "2023",
       "color": "black 1",
       "price": "2900000",
-      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhcnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "3",
@@ -25,25 +25,25 @@
       "year": 2020,
       "color": "Black",
       "price": 35000,
-      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://img.freepik.com/free-photo/modern-sports-car-speeds-through-dark-curve-generative-ai_188544-9136.jpg"
     },
     {
       "id": "6",
       "make": "Mercedes-Benz",
       "model": "C-Class",
-      "year": 2020,
+      "year": "2020",
       "color": "Gray",
-      "price": 48000,
-      "image": "mercedes_cclass.jpg"
+      "price": "48000",
+      "image": "https://media.istockphoto.com/id/1287647156/photo/classic-japanese-car.jpg?s=612x612&w=0&k=20&c=D7VDLBdHn52znCIgEQ36obt_1oOt2HHyIA4Rg5UtQPY="
     },
     {
       "id": "7",
       "make": "Audi",
       "model": "A4",
-      "year": 2021,
+      "year": "2021",
       "color": "Black",
-      "price": 50000,
-      "image": "audi_a4.jpg"
+      "price": "50000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYo24ifKpHFGqJbn6UA66b1w0cChUJeRsPFAFwTTSOe5LGhnEM4e7YD2A64el-xPjlAo&usqp=CAU"
     },
     {
       "id": "b6a9",
@@ -52,7 +52,7 @@
       "year": "2022",
       "color": "Silver",
       "price": "25000",
-      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://i.insider.com/5601bb2fdd0895960e8b45e5?width=1200&format=jpeg"
     },
     {
       "id": "b165",
@@ -61,7 +61,7 @@
       "year": "2022",
       "color": "Silver",
       "price": "25000",
-      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://i.pinimg.com/736x/d2/6d/2a/d26d2aab2ff63cb48b3a91b0e8e0aa55.jpg"
     },
     {
       "id": "887f",
@@ -70,7 +70,7 @@
       "year": "2021",
       "color": "White",
       "price": "27000",
-      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://media.istockphoto.com/id/473928818/photo/the-race.jpg?s=612x612&w=0&k=20&c=aLUbjONvOCONRbt73p8_M3mfpEYOg0JbtsYUztrFFyI="
     }
   ]
 }
