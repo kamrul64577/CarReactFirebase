@@ -1,8 +1,8 @@
-# React + Vite
+# This is a Car selling Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project made with React, Firebase, TailwindCSS, DaisyUI, and Json Server.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How to setup this project
+1. Clone the repository
+2. Give the command in terminal(npm install) and setup the firebase
+3. use this command to run "npm run dev"
