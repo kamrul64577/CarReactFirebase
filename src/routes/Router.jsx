@@ -56,11 +56,11 @@ export const router = createBrowserRouter([
         element: <PrivateRoute> <Dashboard/> </PrivateRoute>
       },
       {
-        path: "dashboard/all-cars",
+        path: "/dashboard/all-cars",
         element: <PrivateRoute> <AllCars /> </PrivateRoute>
       },
       {
-        path: "dashboard/add-car",
+        path: "/dashboard/add-car",
         element: <PrivateRoute> <AddCarForm/> </PrivateRoute>
       },
       {
